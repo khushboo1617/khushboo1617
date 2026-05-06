@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**khushboo1617/khushboo1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there, I'm Khushboo Singh 👋</h1>
+<p align="center">
+  <b>Full Stack Developer · Microsoft Ecosystem · Azure Cloud · AI & Automation</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushboo1617&label=Profile%20views&color=0078D4&style=flat" />
+  <a href="https://twitter.com/khushboo1617">
+    <img src="https://img.shields.io/twitter/follow/khushboo1617?logo=twitter&style=flat&color=1DA1F2" />
+  </a>
+</p>
